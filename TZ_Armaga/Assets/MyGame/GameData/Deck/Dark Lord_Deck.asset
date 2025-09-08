@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0230a0044f26154f905569b9c462b58, type: 3}
+  m_Name: Dark Lord_Deck
+  m_EditorClassIdentifier: 
+  deckName: Dark Lord
+  cards:
+  - {fileID: 11400000, guid: 7cc39e29146324a48b98d12225a34e68, type: 2}
+  - {fileID: 11400000, guid: 767dba3e829239842baf9a546a093378, type: 2}
+  - {fileID: 11400000, guid: bd88fe85b88b8d2429a8765e1f65c408, type: 2}
+  - {fileID: 11400000, guid: 1460a750e84dbd243979a66c3d688411, type: 2}
+  - {fileID: 11400000, guid: 221d71fc143590043a01fcdce9519107, type: 2}
+  - {fileID: 11400000, guid: c8c893dd9d3a437499e9c6d0574a5c75, type: 2}
+  - {fileID: 11400000, guid: 2ddf3ce54d2845c4fbc6b15da1a498f6, type: 2}
+  - {fileID: 11400000, guid: c6a0d4301ac50b1488fba4ed7b288054, type: 2}
+  - {fileID: 11400000, guid: ef23debc2c32c6248855023f5ce9e137, type: 2}
+  bgCard: {fileID: -8931905434872158517, guid: 116ac086c5944ef4f8ffac56ea67c246, type: 3}

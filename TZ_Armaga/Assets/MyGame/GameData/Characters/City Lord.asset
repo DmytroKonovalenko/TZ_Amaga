@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcee2bdc8cebb2847b75ca29bd6bd044, type: 3}
+  m_Name: City Lord
+  m_EditorClassIdentifier: 
+  characterName: City Lord
+  description: A powerful city lord, known for his bravery and skill in governing
+    people.
+  portrait: {fileID: -1544194946840317320, guid: 40252b5ca3c785242aae1a67f47b220b, type: 3}
+  isUnlocked: 0
+  startingDeck: {fileID: 11400000, guid: 6e7f16984f2861843838c73d63bf948c, type: 2}

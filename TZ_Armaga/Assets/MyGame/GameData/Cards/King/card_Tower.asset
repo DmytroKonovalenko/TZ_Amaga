@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f5f2a71bd3d464aa97d37a403aaa03, type: 3}
+  m_Name: card_Tower
+  m_EditorClassIdentifier: 
+  cardName: Tower
+  description: +7 global power
+  artwork: {fileID: -6215774726032339757, guid: a17304a94a27ed846a8974a357a2abc9, type: 3}
+  type: 1
+  logic: {fileID: 11400000, guid: 2a403da2dd589dd4ea6a6ee02623f1ae, type: 2}
+  powerAmount: 7
+  buildingTile: {fileID: 11400000, guid: 94bea81bffd273a4ea45cb93ec47e22a, type: 2}
+  buildingEffectPrefab: {fileID: 3607825763575461699, guid: 1ae5bed1d78675840aca4ee14268c58a, type: 3}
+  unitPrefab: {fileID: 0}
+  unitCount: 5

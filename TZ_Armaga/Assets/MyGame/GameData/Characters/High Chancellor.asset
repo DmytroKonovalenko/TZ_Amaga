@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcee2bdc8cebb2847b75ca29bd6bd044, type: 3}
+  m_Name: High Chancellor
+  m_EditorClassIdentifier: 
+  characterName: High Chancellor
+  description: A clever and cunning chancellor, influencing the fate of the kingdom
+    with wisdom and counsel.
+  portrait: {fileID: 5956596954372058787, guid: 8b6028a4b9892ac41b33f549bcadd64b, type: 3}
+  isUnlocked: 0
+  startingDeck: {fileID: 11400000, guid: b850ffcd900b7b34e96dccde70236c02, type: 2}

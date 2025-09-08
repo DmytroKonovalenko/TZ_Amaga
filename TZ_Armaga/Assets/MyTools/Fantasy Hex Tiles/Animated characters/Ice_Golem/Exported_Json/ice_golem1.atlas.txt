@@ -1,0 +1,139 @@
+
+ice_golem1.png
+size: 555,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Back 1
+  rotate: true
+  xy: 277, 122
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+Arm Back 1_glow
+  rotate: false
+  xy: 417, 120
+  size: 136, 138
+  orig: 138, 140
+  offset: 1, 1
+  index: -1
+Arm Back 2
+  rotate: false
+  xy: 436, 835
+  size: 114, 188
+  orig: 114, 188
+  offset: 0, 0
+  index: -1
+Arm Back 2_glow
+  rotate: false
+  xy: 339, 260
+  size: 114, 188
+  orig: 116, 190
+  offset: 1, 1
+  index: -1
+Arm Front 1
+  rotate: false
+  xy: 263, 615
+  size: 131, 214
+  orig: 131, 214
+  offset: 0, 0
+  index: -1
+Arm Front 1_glow
+  rotate: false
+  xy: 2, 53
+  size: 131, 214
+  orig: 133, 216
+  offset: 1, 1
+  index: -1
+Arm Front 2
+  rotate: false
+  xy: 263, 450
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+Arm Front 2_glow
+  rotate: false
+  xy: 175, 285
+  size: 162, 163
+  orig: 164, 165
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 744
+  size: 259, 279
+  orig: 259, 279
+  offset: 0, 0
+  index: -1
+Body_glow
+  rotate: false
+  xy: 2, 463
+  size: 259, 279
+  orig: 261, 281
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 396, 689
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+Head_glow
+  rotate: false
+  xy: 135, 127
+  size: 140, 140
+  orig: 142, 142
+  offset: 1, 1
+  index: -1
+LegBack1
+  rotate: false
+  xy: 427, 584
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+LegBack1_glow
+  rotate: false
+  xy: 427, 479
+  size: 109, 103
+  orig: 111, 105
+  offset: 1, 1
+  index: -1
+LegBack2
+  rotate: true
+  xy: 135, 7
+  size: 118, 139
+  orig: 118, 139
+  offset: 0, 0
+  index: -1
+LegBack2_glow
+  rotate: true
+  xy: 276, 2
+  size: 118, 139
+  orig: 120, 141
+  offset: 1, 1
+  index: -1
+LegFront1
+  rotate: false
+  xy: 263, 831
+  size: 171, 192
+  orig: 171, 192
+  offset: 0, 0
+  index: -1
+LegFront1_glow
+  rotate: false
+  xy: 2, 269
+  size: 171, 192
+  orig: 173, 194
+  offset: 1, 1
+  index: -1
+LegFront2
+  rotate: false
+  xy: 417, 6
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1

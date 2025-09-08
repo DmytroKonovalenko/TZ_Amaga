@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f5f2a71bd3d464aa97d37a403aaa03, type: 3}
+  m_Name: card_Farm
+  m_EditorClassIdentifier: 
+  cardName: Farm
+  description: +1 unit to all squad
+  artwork: {fileID: 3659812682054317739, guid: 5361254a97a851c448612d3fd9d0bf02, type: 3}
+  type: 1
+  logic: {fileID: 11400000, guid: 35d603ee6a66bbe418b00888970ae70b, type: 2}
+  powerAmount: 0
+  buildingTile: {fileID: 11400000, guid: 2d1ed4cbfd3163b4f85dcaedb15602a8, type: 2}
+  buildingEffectPrefab: {fileID: 3607825763575461699, guid: 1ae5bed1d78675840aca4ee14268c58a, type: 3}
+  unitPrefab: {fileID: 0}
+  unitCount: 5
